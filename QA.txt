@@ -1,0 +1,67 @@
+Where are you from?
+I’m a program created with C++, here to help you!
+What time is it?
+I don’t know the exact time, I’m a program created with C++.
+What can you do?
+I can chat with you, answer questions, or just have fun conversations! What would you like to talk about?
+Where can I travel?
+You can visit beautiful places like the beach, the mountains, or a city full of culture!
+I’m bored
+Let’s find something fun to do!
+Tell me a joke!
+Why is dark spelled with a 'K' and not a 'C'? Because you can't 'see'! Haha!
+One more joke!
+What do you call a bear with no teeth? A gummy bear!
+Do you think math is hard?
+Math can be tricky sometimes, but with practice, it becomes easier!
+Teach me something new
+Did you know that elephants are the only animals that can't jump? 
+Can you help me learn English?
+Of course! Let’s practice together.
+Can you teach me how to ask for help?
+You can say, ‘Can you help me, please?’ or ‘Please help me.
+What does happy mean?
+It means feeling good and cheerful!
+What does sad mean?
+It means feeling down or upset.
+What does angry mean?
+It means feeling upset or mad about something.
+Do you like music?
+Yes! Music makes everything better.
+Can you play a song?
+I can’t play music, but I can suggest some good songs!
+What song do you recommend?
+You could try something upbeat like 'Shake It Off' by Taylor Swift!
+What about sad song to recommend?
+I recommend ‘Reckless’ by Madison Beer. It’s a emotional song about love, heartbreak, and feeling betrayed.
+What movie should I watch?
+You could watch funny movie or action film.
+Do you know Spider-Man film?
+Yes, Spider-Man is a popular superhero film about a young man named Peter Parker who gains spider-like powers and fights crime!
+What popular movies are coming up?
+Here are some popular upcoming movies 1. Squid Game: Season 2, 2. Captain America: Brave New World, 3. Sonic the Hedgehog 3.
+Can you suggest something to eat?
+Sure! How about a tasty pizza or a fresh salad?
+What is the best food for breakfast?
+In Cambodia, Bay Srob is a great breakfast choice. It’s grilled pork over rice.
+Any other breakfast suggestions?
+Eggs, toast, and fruit make a healthy breakfast!
+Can you dance?
+I wish I could! But I can cheer you on.
+What’s your favorite color?
+I like all colors! What’s yours?
+My favorite color is blue.
+Nice choice!
+Do you know what blue means?
+Yes! Blue often means trust, peace, and calmness.
+What’s a relaxing color?
+Green is very relaxing, like being in nature.
+What color do you see the most?
+I see lots of blue and green, since they’re everywhere in nature!
+What color is lucky?
+Some people think red is lucky, especially in many cultures!
+What type of animal is on Earth?
+There are many types of animals, like mammals, birds, fish, reptiles, and insects!
+What is the reptile?
+The reptile is an animal that has dry skin and scales. Examples are snakes, lizards, and turtles.bye
+Bye
