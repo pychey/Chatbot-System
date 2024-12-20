@@ -11,6 +11,9 @@ void Chatbot::loadFromFile(){
                 continue;
             }
             getline(file,answer);
+            if(answer.size()==0){
+                continue;
+            }
             linkQA(question,answer);
         }
         file.close();

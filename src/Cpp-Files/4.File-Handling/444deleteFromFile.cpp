@@ -7,12 +7,18 @@ void Chatbot::deleteFromFile(string questionForDeleted) {
     ofstream tempFile(fileTemp, ios::app);
     if(file.is_open()){
         while(getline(file,question)){
+            if(question.size()==0){
+                continue;
+            }
             getline(file,answer);
+            if(answer.size()==0){
+                continue;
+            }
             if(question==questionForDeleted) {
-                 //skip the question to be deleted
+                 continue;
             } else {
-                tempFile << question << endl;
-                tempFile << answer << endl;
+                tempFile << endl << question;
+                tempFile << endl << answer;
             }
         }
         file.close();

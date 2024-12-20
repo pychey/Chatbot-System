@@ -7,6 +7,8 @@
 #include <string>
 using namespace std;
 
+string toLower(string str); //convert string to lowercase
+
 class Chatbot{
 private:
     string name;
@@ -29,6 +31,7 @@ public:
     //2.function members
     void addQA();
     void displayQA();
+    void displayQ();
     QA* findQ_returnQA(string question);
     string giveA(string question);
     void improveQA(string question);

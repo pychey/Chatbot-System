@@ -7,7 +7,7 @@ void Chatbot::deleteQA(string question) {
         deleteFromFile(question);
         cout << "Delete Done" << endl;
     } else {
-        cout << "Delete failed" << endl;
+        cout << "The question doesn't exist, sorry" << endl;
         return;
     }
 }

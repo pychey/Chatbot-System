@@ -1,67 +1,112 @@
-Where are you from?
-I’m a program created with C++, here to help you!
-What time is it?
-I don’t know the exact time, I’m a program created with C++.
-What can you do?
-I can chat with you, answer questions, or just have fun conversations! What would you like to talk about?
-Where can I travel?
-You can visit beautiful places like the beach, the mountains, or a city full of culture!
-I’m bored
-Let’s find something fun to do!
-Tell me a joke!
-Why is dark spelled with a 'K' and not a 'C'? Because you can't 'see'! Haha!
-One more joke!
-What do you call a bear with no teeth? A gummy bear!
-Do you think math is hard?
-Math can be tricky sometimes, but with practice, it becomes easier!
-Teach me something new
-Did you know that elephants are the only animals that can't jump? 
-Can you help me learn English?
-Of course! Let’s practice together.
-Can you teach me how to ask for help?
-You can say, ‘Can you help me, please?’ or ‘Please help me.
-What does happy mean?
-It means feeling good and cheerful!
-What does sad mean?
-It means feeling down or upset.
-What does angry mean?
-It means feeling upset or mad about something.
-Do you like music?
-Yes! Music makes everything better.
-Can you play a song?
-I can’t play music, but I can suggest some good songs!
-What song do you recommend?
-You could try something upbeat like 'Shake It Off' by Taylor Swift!
-What about sad song to recommend?
-I recommend ‘Reckless’ by Madison Beer. It’s a emotional song about love, heartbreak, and feeling betrayed.
-What movie should I watch?
-You could watch funny movie or action film.
-Do you know Spider-Man film?
-Yes, Spider-Man is a popular superhero film about a young man named Peter Parker who gains spider-like powers and fights crime!
-What popular movies are coming up?
-Here are some popular upcoming movies 1. Squid Game: Season 2, 2. Captain America: Brave New World, 3. Sonic the Hedgehog 3.
-Can you suggest something to eat?
-Sure! How about a tasty pizza or a fresh salad?
-What is the best food for breakfast?
-In Cambodia, Bay Srob is a great breakfast choice. It’s grilled pork over rice.
-Any other breakfast suggestions?
-Eggs, toast, and fruit make a healthy breakfast!
-Can you dance?
-I wish I could! But I can cheer you on.
-What’s your favorite color?
-I like all colors! What’s yours?
-My favorite color is blue.
-Nice choice!
-Do you know what blue means?
-Yes! Blue often means trust, peace, and calmness.
-What’s a relaxing color?
-Green is very relaxing, like being in nature.
-What color do you see the most?
-I see lots of blue and green, since they’re everywhere in nature!
-What color is lucky?
-Some people think red is lucky, especially in many cultures!
-What type of animal is on Earth?
-There are many types of animals, like mammals, birds, fish, reptiles, and insects!
-What is the reptile?
-The reptile is an animal that has dry skin and scales. Examples are snakes, lizards, and turtles.bye
-Bye
+hey
+hi
+how are you
+im all good, how about you
+im good too
+thats great to hear
+where are you from
+im a chatbot built in c++, where are you from?
+im from cambodia
+oh, i got built by  team in cambodia too
+are you familiar with angkor wat
+yes angkor wat was built in cambodia since the first half of the 12th century, around the year 1110-1150 by the khmer king suryavarman ii
+oh you know a lot of things huh
+actually not really, you are the one asking question you know exist in my system
+would you like to go on a date with me
+i would love to, but since i dont exist in real life, no
+rate me from 1 to 10
+10 because i dont want to hurt your feelings
+are you scared
+im a chatbot, i dont get scared, except when seeing your face
+can i add question and answer to the bot system
+yes you can by typing "i want to add a question", you can actually display, improve, delete the question and answers too
+how do i do them?
+for display, type display, for improve, type improve, for delete type delete, for add, type add
+thank
+you are welcome
+can i display question
+yes just type "i want to display the questions" you can actually add, improve, delete questions too
+can i improve question
+yes just type "i want to improve a question", you can actually add, display, delete question too
+can i delete question
+yes just type "i want to delete a question", you can actually add, display and improve questions too
+can i add question
+yes just type "i want to add a question", you can actually display, improve, delete the question and answers too
+how do i stop running the bot
+just type "bye" to quit chatting with bot
+is there a game to play
+yes just type "i want to play a game"
+how do i win the game?
+actually you cant, its a troll
+where are you from?
+i’m a program created with c++, here to help you!
+what time is it?
+i don’t know the exact time, i’m a program created with c++.
+what can you do?
+i can chat with you, answer questions, or just have fun conversations! what would you like to talk about?
+where can i travel?
+you can visit beautiful places like the beach, the mountains, or a city full of culture!
+i’m bored
+let’s find something fun to do!
+tell me a joke!
+why is dark spelled with a 'k' and not a 'c'? because you can't 'see'! haha!
+one more joke!
+what do you call a bear with no teeth? a gummy bear!
+do you think math is hard?
+math can be tricky sometimes, but with practice, it becomes easier!
+teach me something new
+did you know that elephants are the only animals that can't jump? 
+can you help me learn english?
+of course! let’s practice together.
+can you teach me how to ask for help?
+you can say, ‘can you help me, please?’ or ‘please help me.
+what does happy mean?
+it means feeling good and cheerful!
+what does sad mean?
+it means feeling down or upset.
+what does angry mean?
+it means feeling upset or mad about something.
+do you like music?
+yes! music makes everything better.
+can you play a song?
+i can’t play music, but i can suggest some good songs!
+what song do you recommend?
+you could try something upbeat like 'shake it off' by taylor swift!
+what about sad song to recommend?
+i recommend ‘reckless’ by madison beer. it’s a emotional song about love, heartbreak, and feeling betrayed.
+what movie should i watch?
+you could watch funny movie or action film.
+do you know spider-man film?
+yes, spider-man is a popular superhero film about a young man named peter parker who gains spider-like powers and fights crime!
+what popular movies are coming up?
+here are some popular upcoming movies 1. squid game: season 2, 2. captain america: brave new world, 3. sonic the hedgehog 3.
+can you suggest something to eat?
+sure! how about a tasty pizza or a fresh salad?
+what is the best food for breakfast?
+in cambodia, bay srob is a great breakfast choice. it’s grilled pork over rice.
+any other breakfast suggestions?
+eggs, toast, and fruit make a healthy breakfast!
+can you dance?
+i wish i could! but i can cheer you on.
+what’s your favorite color?
+i like all colors! what’s yours?
+my favorite color is blue.
+nice choice!
+do you know what blue means?
+yes! blue often means trust, peace, and calmness.
+what’s a relaxing color?
+green is very relaxing, like being in nature.
+what color do you see the most?
+i see lots of blue and green, since they’re everywhere in nature!
+what color is lucky?
+some people think red is lucky, especially in many cultures!
+what type of animal is on earth?
+there are many types of animals, like mammals, birds, fish, reptiles, and insects!
+what is the reptile?
+the reptile is an animal that has dry skin and scales. examples are snakes, lizards, and turtles.
+that's funny
+it is not
+you're not friendly
+i am friendly :)
+how do i stop the bot
+just type "bye"

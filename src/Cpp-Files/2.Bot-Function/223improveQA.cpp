@@ -10,7 +10,7 @@ void Chatbot::improveQA(string questionToImprove) {
         improveInFile(questionToImprove,newAnswer);
         cout << "Improve Done" << endl;
     } else {
-        cout << "Improve failed" << endl;
+        cout << "The question doesn't exist, sorry" << endl;
         return;
     }
 }
