@@ -7,7 +7,7 @@
 #include <string>
 using namespace std;
 
-string toLower(string str); //convert string to lowercase
+string toLower(string str);
 
 class Chatbot{
 private:
